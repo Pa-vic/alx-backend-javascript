@@ -1,0 +1,15 @@
+{
+  "name": "0x01-ES6_promise",
+  "version": "1.0.0",
+  "description": "This is a 0x01. ES6 Promises At the end of this project, I can explain to anyone, without the help of Google:",
+  "main": ".eslintrc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
